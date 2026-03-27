@@ -18,22 +18,8 @@ Alternative front-end for Google Translate, serving as a Free and Open Source tr
 
 Arna Translate uses the Lingva Translate APIs.
 
-Inspired by projects like [NewPipe](https://github.com/TeamNewPipe/NewPipe), [Nitter](https://github.com/zedeus/nitter), [Invidious](https://github.com/iv-org/invidious) or [Bibliogram](https://git.sr.ht/~cadence/bibliogram), Lingva scrapes through Google Translate and retrieves the translation without using any Google-related service, preventing them from tracking. For more information about Lingva Translate click [here](https://github.com/thedaviddelta/lingva-translate).
+Lingva scrapes through Google Translate and retrieves the translation without using any Google-related service, preventing them from tracking. For more information about Lingva Translate click [here](https://github.com/thedaviddelta/lingva-translate).
 
-## Donation
-
-If you like Arna Translate you can support developer with [monero](https://github.com/monero-project/monero). Thank you!
-
-![monero](.github/monero.png)
-
-`89nMEk2ZhypZDMkniyBiTsP1UrzMzEV9oNcAzdrxKo5HVuwB7kXA78iC9HaFLhdTBfHPzGrHL4ww9faGfvWFvxZo8kDkqcG`
-
-## Contributing
-
-Arna Translate is in active development. Any contribution, idea, criticism or feedback is welcomed.
-
-- If you know Flutter and Dart, we would love you to help us grow Arna Translate more.
-- You can always file feature requests and bugs at the [issue tracker](https://github.com/MahanRahmati/translate/issues).
 
 ## License
 
